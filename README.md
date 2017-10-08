@@ -1,0 +1,8 @@
+# Bitcoin Exploration
+
+3 pieces
+
++ An [article](.pdf/TELECOM_173_web_finance_et_securité_O_Borderies.pdf) about Bitcoin published in July 2014.
++ A [notebook](./Bitcoin_exploration.ipynb) to introduce Elliptic Curves which are a basis of asymmetric cryptography.
++ A [notebook](./Elliptic_Curve_exploration.ipynb) to tap the Bitcoin blockchain.
+
